@@ -119,4 +119,4 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 ### Contact To Buy The Script
 
-• https://t.me/lunoxximpostor
+• https://t.me/lunoximpostor
